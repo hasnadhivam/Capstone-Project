@@ -11,7 +11,8 @@ Has several responsibility such as:
 3. Testing model
 
 ## Cloud Computing Team
-
+Has several responsibility such as:
+Designing UI and front end of the web
 
 ## Contributor
 1. M017DSY2484 - [Ghina Fujiawati Jaelani](https://www.linkedin.com/in/) - Institut Teknologi Bandung - Machine Learning
