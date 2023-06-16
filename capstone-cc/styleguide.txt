@@ -1,0 +1,39 @@
+/* Variables *
+:root {
+--black: rgba(0, 0, 0, 1);
+--pink-pearl: rgba(179, 112, 121, 1);
+--thunderbird: rgba(203, 33, 25, 1); 
+--careys-pink: rgba(216, 156, 166,
+1);
+--concrete: rgba(242, 242, 242, 1); 
+--white: rgba(254, 255, 255, 1);
+
+--font-size-xxs: 12px;
+--font-size-xs: 14px;
+--font-size-s: 16px; 
+--font-size-m: 18px;
+--font-size-l: 20px;
+--font-size-xl: 32px;
+--font-size-xx1: 56px;
+
+--font-family-inter: "Inter";
+ -font-family-montserrat: "Montserrat";
+}
+
+/* Classes */
+
+montserrat-bold-thunderbird-32px {
+color: var(--thunderbird);
+font-family: var (--font-family-
+montserrat); 
+font-size: var (--font-size-x1); 
+font-style: normal;
+font-weight: 700;
+}
+montserrat-normal-concrete-18px { 
+color: var(--concrete); 
+font-family: var(--font-family- montserrat);
+font-size: var (--font-size-m);
+font-weight: 400;
+font-style: normal;
+}
