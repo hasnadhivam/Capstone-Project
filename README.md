@@ -1,4 +1,4 @@
-# SafeHeart Project
+![image](https://github.com/daar1518/Capstone-Project/assets/90809630/2ddca1ef-5bcb-4177-aca4-f808b3b4fcf9)# SafeHeart Project
 Welcome to SafeHeart Project from CC23-PC784 Team
 ![prototype](SafeHeart.jpeg)
 ## Background Story:
@@ -17,5 +17,5 @@ Has several responsibility such as:
 1. M017DSY2484 - [Ghina Fujiawati Jaelani](https://www.linkedin.com/in/) - Institut Teknologi Bandung - Machine Learning
 2. M137DSX0540 - [Vallen Adithya Rekhsana](https://www.linkedin.com/in/vallen-adithya-rekhsana-a5734b193/) - Universitas Andalas - Machine Learning
 3. M360DSY0046 - [Hasna Nadhiva Muninggar](https://www.linkedin.com/in/) - Universitas Telkom - Machine Learning
-4. C151DKY4367 - [Izzah Firzanah](https://www.linkedin.com/in/) - Universitas Brawijaya - Cloud Computing
+4. C151DKY4367 - [Izzah Firzanah](https://www.linkedin.com/in/izzah-firzanah-024951215/) - Universitas Brawijaya - Cloud Computing
 5. C304DSX3668 - [Raihan Darmawan Pringgodigdo](https://www.linkedin.com/in/raihan-darmawan-pringgodigdo-14970021a) - Universitas Pembangunan Nasional Veteran Jakarta - Cloud Computing
