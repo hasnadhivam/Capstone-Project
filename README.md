@@ -1,4 +1,4 @@
-![image](https://github.com/daar1518/Capstone-Project/assets/90809630/2ddca1ef-5bcb-4177-aca4-f808b3b4fcf9)# SafeHeart Project
+# SafeHeart Project
 Welcome to SafeHeart Project from CC23-PC784 Team
 ![prototype](SafeHeart.jpeg)
 ## Background Story:
