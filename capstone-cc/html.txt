@@ -1,0 +1,121 @@
+<div class=" "homepage screen">
+   <div class="navbar-logo-left">
+     <div class="group-1">
+       <div class="navbar-container">
+         <div class=" navbar-content">
+           <div class="navbar-link">
+             <img class="cardiogram"
+src=*cardiogram.svg* alt=" "Cardiogram"
+                                         />
+             <div class="safe-
+heart">SafeHeart</div>
+           </div>
+           <div class="navbar-button">
+             <div class="periksa-jantung-
+ anda ">Periksa Jantung Anda</div>
+           </div>
+         </div>
+       </div>
+     </div>
+  </div>
+   <div class="hero-heading-left">
+     <img class="vector" src="vector.svg"
+alt="Vector" />
+     <div class="container">
+       <div class="column">
+         <div class="content">
+           <h1 class="h1-title-copy-goes-
+<div class=" "homepage screen">
+   <div class="navbar-logo-left">
+     <div class="group-1">
+       <div class="navbar-container">
+         <div class=" navbar-content">
+           <div class="navbar-link">
+             <img class="cardiogram"
+src=*cardiogram.svg* alt=" "Cardiogram"
+                                         />
+             <div class="safe-
+heart">SafeHeart</div>
+           </div>
+           <div class="navbar-button">
+             <div class="periksa-jantung-
+ anda ">Periksa Jantung Anda</div>
+           </div>
+         </div>
+       </div>
+     </div>
+  </div>
+   <div class="hero-heading-left">
+     <img class="vector" src="vector.svg"
+alt="Vector" />
+     <div class="container">
+       <div class="column">
+         <div class="content">
+           <h1 class="h1-title-copy-goes-
+here-be-awesome">Jaga Selalu Kesehatan
+ Jantung Anda</h1>
+           <div class="flex-container>
+             <div class="text text-
+ 2 montserrat-normal-concrete-18px">
+               <span class="montserrat-
+ normal-concrete-18px">Apakah Anda memiliki
+ keluhan:</span>
+             </div>
+             <div class="text text-
+ 2 montserrat-normal-concrete-18px">
+               <span class="montserrat-
+ normal-concrete-18px">Nyeri dada</span>
+             </div>
+             <div class="text text-
+ 2 montserrat-normal-concrete-18px">
+               <span class="montserrat-
+ normal-concrete-18px">Sesak napas</span>
+             </div>
+             <div class="text text-
+ 2 montserrat-normal-concrete-18px">
+               <span class="montserrat-
+ normal-concrete-18px">Kelelahan yang tidak
+ wajar</span>
+             </div>
+             <div class="text text-
+2 montserrat-normal-concrete-18px">
+              <span class="montserrat-
+normal-concrete-18px">Pingsan atau
+ kehilangan kesadaran</span>
+            </div>
+            <div class="text text-
+ 2 montserrat-normal-concrete-18px">
+              <span class="montserrat-
+normal-concrete-18px">Peningkatan
+ frekuensi serangan flu atau infeksi
+ saluran pernapasan</span>
+            </div>
+            <div class="text text-
+ 2 montserrat-normal-concrete-18px">
+              <span class="montserrat-
+ normal-concrete-18px"
+                >Segera periksa kesehatan
+ jantung Anda dengan mengisi pertanyaan
+ sederhana kami.</span
+              >
+            </div>
+          </div>
+        </div>
+        <div class="navbar-button-1">
+           <div class=" "periksa-jantung-
+ anda-1 ">Periksa Jantung Anda</div>
+        </div>
+       </div>
+      </div>
+      <img class=" "image-removebg-preview-1"
+src="image-removebg-preview-1.png"
+alt="image-removebg-preview 1" />
+    </div>
+    <footer class="footer">
+     <div class=" "copyright">
+      <div class="text-1 text-2">Copyright
+© 2023 SafeHeart</div>
+    </div>
+  </footer>
+</div>
+
